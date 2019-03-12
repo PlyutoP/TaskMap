@@ -1,0 +1,41 @@
+{
+  "cities" : [
+
+    { 
+    "nameCity" : "Gatchina",
+    "rusName" : "Гатчина",
+    "top": "233px",
+    "left": "100px", },
+
+    {
+    "nameCity": "Moskow",
+    "rusName" : "Москва",
+    "top": "296px",
+    "left": "130px",
+  },
+
+    {
+    "nameCity": "SP",
+    "rusName" : "Санкт-Петербург",
+    "top": "230px",
+    "left": "110px",
+  },
+    {
+    "nameCity": "Murmunsk",
+    "rusName" : "Мурманск",
+    "top": "193px",
+    "left": "200px",
+  },
+    {
+    "nameCity": "Arsenev",
+    "rusName" : "Арсеньев",
+    "top": "433px",
+    "left": "740px",
+  }
+]
+}
+
+    
+
+
+
