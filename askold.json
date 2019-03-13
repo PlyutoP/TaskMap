@@ -1,0 +1,14 @@
+{
+    "askold" : [ 
+    {"title":"askold/01.png","top":"300px", "left":"610px"}, 
+    {"title":"askold/02.png","top":"290px", "left":"630px"}, 
+    {"title":"askold/03.png","top":"320px", "left":"680px"}, 
+    {"title":"askold/04.png","top":"226px", "left":"700px"}, 
+    {"title":"askold/05.png","top":"280px", "left":"630px"}, 
+    {"title":"askold/06.png","top":"290px", "left":"650px"}, 
+    {"title":"askold/07.png","top":"300px", "left":"700px"}, 
+    {"title":"askold/08.png","top":"305px", "left":"689px"}, 
+    {"title":"askold/09.png","top":"280px", "left":"705px"}, 
+    {"title":"askold/10.png","top":"270px", "left":"710px"} 
+  ]
+}

@@ -1,0 +1,13 @@
+{
+    "armalit": [ 
+    {"title":"armalit/01.png","top":"200px", "left":"70px"}, 
+    {"title":"armalit/02.png","top":"170px", "left":"20px"}, 
+    {"title":"armalit/03.png","top":"185px", "left":"30px"}, 
+    {"title":"armalit/04.png","top":"200px", "left":"40px"}, 
+    {"title":"armalit/05.png","top":"210px", "left":"80px"}, 
+    {"title":"armalit/06.png","top":"218px", "left":"20px"},
+    {"title":"armalit/07.png","top":"230px", "left":"40px"}, 
+    {"title":"armalit/08.png","top":"180px", "left":"60px"}, 
+    {"title":"armalit/09.png","top":"200px", "left":"40px"} 
+  ]
+}
